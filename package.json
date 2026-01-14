@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^2.3.0"
+  }
+}
